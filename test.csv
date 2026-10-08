@@ -1,0 +1,11 @@
+Registrar,Lifetime,Country,Protocol,Class
+godaddy,2,US,http,phishing
+XXLPOWER.CO.UA,1,N/A,http,phishing
+godaddy,2,N/A,http,phishing
+LOGINCOMPUTERS.IN,1,US,http,phishing
+allegro.pl,18,US,https,phishing
+"Vitalwerks Internet Solutions, LLC DBA No-IP (R1731-LROR)",14,Canada,https,benign
+Onlinenic Inc,5,US,https,benign
+"TUCOWS, INC.",7,US,https,benign
+"NETWORK SOLUTIONS, LLC",6,US,https,benign
+USA,2,US,https,benign
